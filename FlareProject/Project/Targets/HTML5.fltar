@@ -4,14 +4,21 @@
   Comment="MadCap HTML5 Target"
   Type="WebHelp2"
   Destinations=""
-  ShowMadCapBacklink="true"
-  GlossaryTermConversion="marked"
+  ShowMadCapBacklink="false"
+  GlossaryTermConversion="first"
   UseCustomTopicFileExtension="true"
-  CustomTopicFileExtension="html">
+  CustomTopicFileExtension="html"
+  MakeFileLowerCase="true"
+  MoveOutputContentToRoot="true"
+  RemoveMadCapStyles="false"
+  Skin="(none)"
+  OutputFile="index"
+  MasterPage="/Content/Resources/MasterPages/topic.flmsp">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
     GenerateIndexProxy="true"
-    GenerateGlossaryProxy="true" />
+    GenerateGlossaryProxy="true"
+    OutputFormat="doc" />
   <PostBuild>C:\Users\debor\Desktop\Code\11tyFlare\moveOutputPostBuild.bat</PostBuild>
 </CatapultTarget>

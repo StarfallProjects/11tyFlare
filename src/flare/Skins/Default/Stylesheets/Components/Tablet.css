@@ -1,0 +1,308 @@
+/*<meta />*/
+
+@media only screen and (max-width: 1279px)
+{
+	/* Search Styles */
+
+	.search-bar .search-filter
+	{
+		font-size: 1em;
+	}
+
+	.button.login-button.feedback-required,
+	.button.edit-user-profile-button.feedback-required
+	{
+		display: none;
+	}
+
+	.pulse-frame
+	{
+		display: none;
+	}
+
+	ul.menu.mc-component
+	{
+		background-color: #ffffff;
+	}
+
+	ul.menu.mc-component a
+	{
+		
+	}
+
+	ul.menu.mc-component li > a
+	{
+		background-color: transparent;
+	}
+
+	ul.menu.mc-component ul > li > a
+	{
+		background-color: transparent;
+	}
+
+	ul.menu.mc-component ul ul > li > a
+	{
+		background-color: transparent;
+	}
+
+	ul.menu.mc-component ul ul ul > li > a
+	{
+		background-color: transparent;
+	}
+
+	ul.menu.mc-component ul ul ul ul > li > a
+	{
+		background-color: transparent;
+	}
+
+	ul.menu.mc-component li > a.selected
+	{
+		background-color: transparent;
+	}
+
+	ul.menu.mc-component li > a:hover
+	{
+		background-color: #cacaca;
+	}
+
+	ul.menu.mc-component ul > li > a:hover
+	{
+		background-repeat: repeat;
+		background-color: #cacaca;
+	}
+
+	ul.menu.mc-component ul ul > li > a:hover
+	{
+		background-repeat: repeat;
+		background-color: #cacaca;
+	}
+
+	ul.menu.mc-component ul ul ul > li > a:hover
+	{
+		background-repeat: repeat;
+		background-color: #cacaca;
+	}
+
+	ul.menu.mc-component ul ul ul ul > li > a:hover
+	{
+		background-repeat: repeat;
+		background-color: #cacaca;
+	}
+
+	ul.menu.mc-component li > a.selected:hover
+	{
+		background-color: #cacaca;
+	}
+
+	.mc-component .search-auto-complete ul
+	{
+		background-color: #ffffff;
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item a
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-content
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-history
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item.auto-result-selected a
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item.auto-result-selected
+	{
+		background-color: #ececec;
+	}
+
+	.mc-component .search-auto-complete li.auto-result-content.auto-result-selected
+	{
+		background-color: #ececec;
+	}
+
+	.mc-component .search-auto-complete li.auto-result-history.auto-result-selected
+	{
+		background-color: #ececec;
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item .auto-result-description
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-content .auto-result-description
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-history .auto-result-description
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item .auto-result-icon
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-content .auto-result-icon
+	{
+		background: transparent url('Images/icon-topic.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/icon-topic.png') no-repeat center center;
+		background-size: contain;
+	}
+
+	.mc-component .search-auto-complete li.auto-result-history .auto-result-icon
+	{
+		background: transparent url('Images/icon-search.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/icon-search.png') no-repeat center center;
+		background-size: contain;
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item .auto-result-phrase
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-content .auto-result-phrase
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-history .auto-result-phrase
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item .auto-result-phrase .search-result-highlight
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-content .auto-result-phrase .search-result-highlight
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li.auto-result-history .auto-result-phrase .search-result-highlight
+	{
+		
+	}
+
+	.mc-component .search-auto-complete li .auto-result-remove
+	{
+		width: 17px;
+		height: 27px;
+		background: transparent url('Images/icon-remove.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/icon-remove.png') no-repeat center center;
+		background-size: contain;
+	}
+
+	.mc-component .search-auto-complete li.auto-result-item .auto-result-separator
+	{
+		
+	}
+
+	.search-bar.mc-component
+	{
+		
+	}
+
+	.search-bar.mc-component .search-field
+	{
+		background-color: #ffffff;
+	}
+
+	.search-bar.mc-component .search-filter
+	{
+		background: #ffffff url('Images/FilterOutline.png') no-repeat center center;
+		-pie-background: #ffffff url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
+	}
+
+	.search-bar.mc-component .search-submit
+	{
+		
+	}
+
+	.mc-component .search-filter-content
+	{
+		top: 2em;
+		background-color: #ffffff;
+	}
+
+	.search-bar.mc-component .search-filter-wrapper.open
+	{
+		-pie-background: #ffffff url('Skins/Default/Stylesheets/Components/Images/FilterOutline.png') no-repeat center center;
+		background-color: #ffffff;
+		background-repeat: no-repeat;
+	}
+
+	.search-bar.mc-component .search-filter:hover
+	{
+		background-color: #ffffff;
+	}
+
+	.search-bar.mc-component .search-filter.selected
+	{
+		background: transparent url('Images/Filter.png') no-repeat center center;
+		-pie-background: transparent url('Skins/Default/Stylesheets/Components/Images/Filter.png') no-repeat center center;
+	}
+
+	.mc-component .search-filter-content ul li:hover
+	{
+		background-color: #ffffff;
+	}
+
+	.mc-component .search-filter-content ul li:focus-within
+	{
+		background-color: #ffffff;
+	}
+
+	.search-bar.mc-component .search-field::-webkit-input-placeholder
+	{
+		
+	}
+
+	.search-bar.mc-component .search-field::-moz-placeholder
+	{
+		
+	}
+
+	.search-bar.mc-component .search-field:-moz-placeholder
+	{
+		
+	}
+
+	.search-bar.mc-component .search-field:-ms-input-placeholder
+	{
+		
+	}
+
+	.search-bar.search-bar-container.mc-component .search-submit
+	{
+		background: #bed230 url('Images/SearchIcon.png') no-repeat center center;
+		-pie-background: #bed230 url('Skins/Default/Stylesheets/Components/Images/SearchIcon.png') no-repeat center center;
+	}
+
+	.search-bar.search-bar-container.mc-component .search-submit:hover
+	{
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-color: #bed230;
+	}
+}
+

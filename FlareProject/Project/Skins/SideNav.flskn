@@ -10,6 +10,6 @@
   <WebHelpOptions
     NavigationPanePosition="Right"
     OffCanvasMenuStyle="Accordion"
-    MainMenuPosition="Left" 
+    MainMenuPosition="Left"
     EnableSticky="All" />
 </CatapultSkin>
