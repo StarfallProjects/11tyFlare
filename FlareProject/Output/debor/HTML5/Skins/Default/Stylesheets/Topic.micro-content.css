@@ -348,6 +348,18 @@
 	height: 0;
 }
 
+.micro-response .glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.micro-response .glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
+}
+
 .micro-response .MCTextPopup_Open.MCTextPopupHotSpot_
 {
 	background-position: right;
@@ -373,12 +385,6 @@
 	padding: 5px;
 }
 
-.micro-response .\000023text
-{
-	font-weight: bold;
-	color: Olive;
-}
-
 .micro-response div.MCBreadcrumbsBox_0
 {
 	border-bottom-width: 1px;
@@ -386,5 +392,15 @@
 	border-bottom-color: black;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
+}
+
+.micro-response div.MCTocProxy_0
+{
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: black;
+	padding-top: 10px;
+	margin-top: 10px;
+	padding-left: 20px;
 }
 

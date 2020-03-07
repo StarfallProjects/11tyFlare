@@ -9,7 +9,8 @@
   UseCustomTopicFileExtension="true"
   MasterPage="/Content/Resources/MasterPages/topic.flmsp"
   MoveOutputContentToRoot="true"
-  MakeFileLowerCase="true">
+  MakeFileLowerCase="true"
+  CustomTopicFileExtension="html">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"

@@ -5,7 +5,7 @@
   Type="WebHelp2"
   Destinations=""
   ShowMadCapBacklink="false"
-  GlossaryTermConversion="first"
+  GlossaryTermConversion="marked"
   UseCustomTopicFileExtension="true"
   CustomTopicFileExtension="html"
   MakeFileLowerCase="true"

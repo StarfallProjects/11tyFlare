@@ -348,6 +348,18 @@ a.glossaryTerm
 	height: 0;
 }
 
+.glossaryTerm
+{
+	font-weight: bold;
+	color: Olive;
+}
+
+.glossaryTerm:link
+{
+	font-weight: bold;
+	color: Olive;
+}
+
 .MCTextPopup_Open.MCTextPopupHotSpot_
 {
 	background-position: right;
@@ -373,12 +385,6 @@ a.glossaryTerm
 	padding: 5px;
 }
 
-.\000023text
-{
-	font-weight: bold;
-	color: Olive;
-}
-
 div.MCBreadcrumbsBox_0
 {
 	border-bottom-width: 1px;
@@ -386,5 +392,15 @@ div.MCBreadcrumbsBox_0
 	border-bottom-color: black;
 	padding-bottom: 10px;
 	margin-bottom: 10px;
+}
+
+div.MCTocProxy_0
+{
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: black;
+	padding-top: 10px;
+	margin-top: 10px;
+	padding-left: 20px;
 }
 
