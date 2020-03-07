@@ -39,4 +39,8 @@ How about . . . Clean for times when bringing Flare into a larger site (as you'l
 
 ### More skins
 
-Even just using the bare minimum MadCap styling, you get issues, as some elements assume you have a Content folder (and don't adjust when you untick it). Weirdly, the glossary is happy when converting marked terms but not when converting first occurence of terms . . . .
+Even just using the bare minimum MadCap styling, you get issues, as some elements assume you have a Content folder (and don't adjust when you untick it). Weirdly, the glossary is happy when converting marked terms but not when converting first occurence of terms . . . . oh and now even more weirdly it's started working.
+
+### Yet more skins
+
+I guess you could reset all the CSS in the user styles.css . . . create a madcap-specific reset.css . . . you'd still have to target a ton of madcap classes etc. to style things. And this could break every time madcap release an update . . . 

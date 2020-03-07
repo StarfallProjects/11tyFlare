@@ -3,10 +3,10 @@
     <head>
     </head>
     <body>
-			<MadCap:searchBarProxy />
-			<MadCap:breadcrumbsProxy />
-			<MadCap:bodyProxy />
+        <MadCap:searchBarProxy />
+        <MadCap:breadcrumbsProxy />
+        <MadCap:menuProxy />
+        <MadCap:bodyProxy />
 		{% include "topnav.html" %}
 </body>
-
 </html>
